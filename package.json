@@ -1,0 +1,12 @@
+{
+  "name": "typechain",
+  "version": "0.0.1",
+  "description": "typescript-blockchain",
+  "main": "index.js",
+  "author": "doyeonKIM",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
