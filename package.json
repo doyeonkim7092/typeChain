@@ -1,0 +1,20 @@
+{
+  "name": "typechain",
+  "version": "1.0.0",
+  "description": "typescript-blockchain",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doyeonkim7092/typeChain.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doyeonkim7092/typeChain/issues"
+  },
+  "homepage": "https://github.com/doyeonkim7092/typeChain#readme"
+}
